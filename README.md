@@ -1,2 +1,2 @@
-# demo-qa-cypress
-Cypress exercises with demoqa.com.
+# Restful Booker Platform with Cypress
+Cypress exercises with https://automationintesting.online/.
